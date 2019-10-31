@@ -2,6 +2,8 @@
 
 __questions__
 
+| Column         | Type                                             |
+|----------------|--------------------------------------------------|
 | id             |                                                  |
 | question       | String                                           |
 | answer         | String                                           |
