@@ -10,6 +10,7 @@ Collection: __questions__
 | type           | String                                           |
 | options        | [option: String, isAnswer: Boolean]              |
 
+
 Collection: __users__
 
 | Column         | Type                                             |
@@ -20,6 +21,7 @@ Collection: __users__
 | last_name      | String                                           |
 | email          | String                                           |
 | password       | String                                           |
+
 
 Collection: __activities__
 
