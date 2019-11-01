@@ -1,14 +1,19 @@
 {
-  "name": "kootter-api",
+  "name": "vidly",
   "version": "1.0.0",
-  "description": "API for Kootter web app",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Joby Joseph",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.7.7"
+    "express": "^4.16.2",
+    "fawn": "^2.1.5",
+    "joi": "^13.1.0",
+    "joi-objectid": "^2.0.0",
+    "mongoose": "^5.0.2"
   }
 }
